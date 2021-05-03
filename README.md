@@ -1,13 +1,13 @@
 # Zphisher
-Features
-Latest and updated login pages.
-Mask URL support
-Beginners friendly
-Docker support (checkout docker-legacy branch)
-Multiple tunneling options
-Localhost
-Ngrok (With or without hotspot)
-Installation
++Features
++Latest and updated login pages.
++Mask URL support
++Beginners friendly
++Docker support (checkout docker-legacy branch)
++Multiple tunneling options
++Localhost
++Ngrok (With or without hotspot)
++Installation
 Just, Clone this repository -
 $ git clone git://github.com/htr-tech/zphisher.git
 Change to cloned directory and run zphisher.sh -
